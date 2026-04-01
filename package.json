@@ -1,0 +1,25 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "> Final exam for checking student knowledge and practical skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "observer": "tsx src/behavioral/observer/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delines-ua/exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delines-ua/exam/issues"
+  },
+  "homepage": "https://github.com/delines-ua/exam#readme",
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}
